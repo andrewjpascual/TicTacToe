@@ -6,6 +6,9 @@ The text-based Tic-Tac-Toe game's board size depends on however large the player
 - Player vs AI
 - AI vs AI  
 
+## To Play: 
+Install all TTT files and then run TTT.Java to play the text based tic tac toe. Alternatively, you can run the TTTGUI.java in order to play the GUI version of the game.
+
 ## Why did you build this?
 This was a challenging assignment I found that would allow me to practice event listeners, java GUI, and basic AI.
  
