@@ -5,3 +5,9 @@ The text-based Tic-Tac-Toe game's board size depends on however large the player
 - Player vs Player
 - Player vs AI
 - AI vs AI  
+
+## Why did you build this?
+This was a challenging assignment I found that would allow me to practice event listeners, java GUI, and basic AI.
+ 
+## What did you learn from this?
+Although created 2 years ago, in 2019, this allowed me to learn much more about Java in general. I learned many topics such as event listeners, java GUI, basic AI, automated testing, and early puzzle solving.
