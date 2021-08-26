@@ -14,3 +14,6 @@ This was a challenging assignment I found that would allow me to practice event 
  
 ## What did you learn from this?
 Although created 2 years ago, in 2019, this allowed me to learn much more about Java in general. I learned many topics such as event listeners, java GUI, basic AI, automated testing, and early puzzle solving.
+
+### Gif Demo of Text Game & GUI Game
+![TicTacToe](https://user-images.githubusercontent.com/57194224/130884808-4d51c10e-7288-43a9-a86e-9067dbf5f602.gif)
